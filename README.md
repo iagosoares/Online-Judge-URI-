@@ -1,4 +1,5 @@
 # URI
-Resolvendo problemas em python na plataforma URI. Exemplos para contribuir no entendimento da linguagem python.
+Resolvendo problemas em python3 da plataforma URI.
+Exemplos para contribuir no entendimento da linguagem python.
 
-Não copie e cole!!
+Não copie e cole, entenda e aprenda !
