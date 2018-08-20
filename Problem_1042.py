@@ -10,7 +10,7 @@ ordenado = numeros
 ordenado.sort()#usando metodo sort() da list
 
 for x in ordenado:
-		print('{}'.format(x))
+	print('{}'.format(x))
 #vetor original
 print('')
 print(a)
