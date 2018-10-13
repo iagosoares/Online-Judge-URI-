@@ -16,3 +16,5 @@ for cont in lista_entrada:
         
 print('{} in'.format(i))
 print('{} out'.format(j))
+
+# print('{} in\n{} out'.format(i,j))
